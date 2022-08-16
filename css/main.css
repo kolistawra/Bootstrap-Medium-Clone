@@ -1,0 +1,36 @@
+/* Google Font (Pt-Serif 400-700 and Open Sans 300-400-500-700) */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&family=PT+Serif:wght@400;700&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fs-13 {
+    font-size: 13px;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.font-os {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.font-pt-serif {
+    font-family: 'PT Serif', serif; 
+    font-weight: 700;
+}
+
+
+.bg-orange {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #292929;
+}
+
+.border-bottom-gray {
+    border-bottom: 1px solid #70707080;
+}
